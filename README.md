@@ -1,3 +1,12 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=5e0080&height=150)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E0080&width=435&lines=Hello%2C+world!+I'am+Mario+Santos!;Welcome+to+my+GitHub!">
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariosantos-05&langs_count=6&layout=compact&theme=aura&hide=makefile,cython)
+
+![stats](https://github-readme-stats.vercel.app/api?username=mariosantos-05&show_icons=true&theme=aura).
+
 ## 📫 Contact Me
 💼 - www.linkedin.com/in/santos-mario
 
@@ -17,6 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariosantos-05&langs_count=6&layout=compact&theme=aura&hide=makefile)
-
-![stats](https://github-readme-stats.vercel.app/api?username=mariosantos-05&show_icons=true&theme=aura).
