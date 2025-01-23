@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=5e0080&height=150)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E0080&width=435&lines=Hello%2C+world!+I'am+Mario+Santos!;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6cffcf&width=435&lines=Hello%2C+world!+I'am+Mario+Santos!;Welcome+to+my+GitHub!">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariosantos-05&langs_count=6&layout=compact&theme=aura&exclude_repo=img_processing,repo2&hide=HTML,VHDL,css)
