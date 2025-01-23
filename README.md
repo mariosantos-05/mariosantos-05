@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E0080&width=435&lines=Hello%2C+world!+I'am+Mario+Santos!;Welcome+to+my+GitHub!">
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariosantos-05&langs_count=6&layout=compact&theme=aura&hide=makefile,cython)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariosantos-05&show_icons=true&theme=aura)
 
